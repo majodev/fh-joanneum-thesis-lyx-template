@@ -1,5 +1,5 @@
 # fh-joanneum-thesis-lyx-template
-> This LyX template was extracted from my master thesis at [FH JOANNEUM University of Applied Sciences](http://www.fh-joanneum.at), Graz, Austria. You may use it as a starting point for your own thesis thesis.
+> This LyX template was extracted from my master thesis at [FH JOANNEUM University of Applied Sciences](http://www.fh-joanneum.at), Graz, Austria. You may use it as a starting point for your own thesis.
 
 This is an **unofficial template**, that is/was compliant to the thesis specs of the FH JOANNEUM [information management degree programme](http://www.fh-joanneum.at/aw/home/Studienangebot_Uebersicht/department_angewandte_informatik/~oya/ima/?lan=de) in 2013 and 2014.
 
